@@ -255,3 +255,19 @@ button {
     transform: translateY(0);
   }
 }
+
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  
+}
+
+body {
+  overflow-x: hidden;
+}
+
+html,
+body {
+  width: 100%;
+  max-width: 100%;
+}
