@@ -26,7 +26,7 @@ const steps = [
 
 export default function HowItWorks() {
   return (
-    <section className="relative py-24 md:py-32 bg-gradient-to-b from-gray-950 to-gray-900">
+    <section className="relative py-24 md:py-32 bg-gray-950">
       <div className="max-w-7xl mx-auto px-6">
         <Reveal>
           <div className="text-center mb-16">
