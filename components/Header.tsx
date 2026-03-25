@@ -41,7 +41,7 @@ export default function Header() {
 
           <div className="hidden md:flex items-center">
             <a
-              href="/download"
+              href="/coming-soon"
               className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 rounded-lg transition-all hover:shadow-lg hover:shadow-blue-500/20 inline-block"
             >
               Download App (Coming Soon)
@@ -90,11 +90,11 @@ export default function Header() {
 
             <div className="pt-4 space-y-2">
               <a
-                href="/download"
+                href="/coming-soon"
                 onClick={closeMenu}
                 className="block w-full text-center bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 rounded-lg transition-all"
               >
-                Download App
+                Download App (Coming Soon)
               </a>
             </div>
           </div>
